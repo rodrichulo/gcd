@@ -1,0 +1,6 @@
+gcd between 20 and 25: 5
+counter is: 3
+gcd between -89 and -98: 1
+counter is: 5
+gcd between 54321 and 50: 1
+counter is: 7
